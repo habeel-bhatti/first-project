@@ -1,0 +1,11 @@
+h1{
+    color: aqua;
+    background-color: beige;
+    border: 2px solid black;
+    text-align: center;
+}
+p{
+    color: burlywood;
+    background-color: aquamarine;
+    border: 2px solid black;
+}
